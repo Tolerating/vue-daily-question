@@ -1,3 +1,4 @@
+> pages.ts 中配置首页显示的页面
 # 鼠标框选
 ## reactive的重置
 ```ts
